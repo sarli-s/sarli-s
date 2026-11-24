@@ -1,16 +1,28 @@
-## Hi there 👋
+## Sarli Sprei
+**AI & Full-Stack Engineer**
 
-<!--
-**sarli-s/sarli-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced in designing and evaluating LLM agents and building end-to-end AI applications.
+Completed a development internship at Nebius (via KamaTech), developing a full-stack platform
+with LLM agents and an automated LLM-as-a-judge evaluation pipeline.
+Practical Engineer (MAHAT) in Computer Engineering, GPA 98.
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+| Area | Technologies |
+|---|---|
+| Languages | Python, C#, TypeScript, Java, C/C++, Go (learning) |
+| AI & LLMs | LLM Agents, PydanticAI, RAG, LlamaIndex, MCP, OpenAI API |
+| Backend | FastAPI, .NET, REST APIs, Kafka, Redis |
+| Frontend | Next.js, Angular |
+| Data & DevOps | PostgreSQL, SQL Server, Docker, GitHub Actions |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project: AI-Powered E-Commerce Platform
+Full-stack gift store with an AI shopping assistant and semantic product search.
+
+| Component | Technologies | Repository |
+|---|---|---|
+| Backend API | .NET 9, Kafka, Redis, JWT | [APIproject](https://github.com/sarli-s/APIproject) |
+| Frontend | Angular, PrimeNG | [shop-frontend](https://github.com/sarli-s/shop-frontend) |
+| AI Service | Python, FastAPI, OpenAI | [AI-Services-Chat-and-Semantics](https://github.com/sarli-s/AI-Services-Chat-and-Semantics) |
+
+### 📫 Contact
+https://www.linkedin.com/in/sarli-s/ · sarli37531@gmail.com
