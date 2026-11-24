@@ -16,13 +16,8 @@ Practical Engineer (MAHAT) in Computer Engineering, GPA 98.
 | Data & DevOps | PostgreSQL, SQL Server, Docker, GitHub Actions |
 
 ### 🚀 Featured Project: AI-Powered E-Commerce Platform
-Full-stack gift store with an AI shopping assistant and semantic product search.
-
-| Component | Technologies | Repository |
-|---|---|---|
-| Backend API | .NET 9, Kafka, Redis, JWT | [APIproject](https://github.com/sarli-s/APIproject) |
-| Frontend | Angular, PrimeNG | [shop-frontend](https://github.com/sarli-s/shop-frontend) |
-| AI Service | Python, FastAPI, OpenAI | [AI-Services-Chat-and-Semantics](https://github.com/sarli-s/AI-Services-Chat-and-Semantics) |
+Full-stack gift store with an AI shopping assistant and semantic product search, built from three services:
+[Backend API](https://github.com/sarli-s/APIproject) (.NET) · [Frontend](https://github.com/sarli-s/shop-frontend) (Angular) · [AI Service](https://github.com/sarli-s/AI-Services-Chat-and-Semantics) (Python, FastAPI)
 
 ### 📫 Contact
-https://www.linkedin.com/in/sarli-s/ · sarli37531@gmail.com
+https://www.linkedin.com/in/sarli-s/
